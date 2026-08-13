@@ -15,6 +15,17 @@ The purpose of this lab is to develop practical experience with:
 - Security configuration
 - GPO testing and troubleshooting
 
+## Lessons Learned
+
+- Installing and configuring Active Directory Domain Services (AD DS)
+- Promoting a Windows Server to a domain controller
+- Creating and organizing Organizational Units (OUs)
+- Creating users and security groups
+- Linking Group Policy Objects (GPOs) to OUs
+- Understanding GPO scope and inheritance
+- Using `gpupdate` and `gpresult` for troubleshooting
+- Investigating authentication issues in an Active Directory environment
+
 ## Lab Environment
 
 | Component | Configuration |
@@ -58,19 +69,5 @@ The Group Policy was tested using:
 gpupdate /force
 and
 gpresult /r
-
-## Lessons Learned
-
-This lab provided practical experience with:
-
-- Installing and configuring Active Directory Domain Services (AD DS)
-- Promoting a Windows Server to a domain controller
-- Creating and organizing Organizational Units (OUs)
-- Creating users and security groups
-- Linking Group Policy Objects (GPOs) to OUs
-- Understanding GPO scope and inheritance
-- Using `gpupdate` and `gpresult` for troubleshooting
-- Investigating authentication issues in an Active Directory environment
-
 
 
