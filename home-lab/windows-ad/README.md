@@ -59,8 +59,9 @@ gpupdate /force
 and
 gpresult /r
 
-Lessons Learned
 
+
+Lesson learned -
 This lab provided practical experience with:
 
 Installing and configuring AD DS
