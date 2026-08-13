@@ -58,10 +58,9 @@ The Group Policy was tested using:
 gpupdate /force
 and
 gpresult /r
+```text
+Lessons Learned
 
-
-
-Lesson learned -
 This lab provided practical experience with:
 
 Installing and configuring AD DS
