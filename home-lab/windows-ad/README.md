@@ -59,16 +59,18 @@ gpupdate /force
 and
 gpresult /r
 
-```text
-Lessons Learned
+## Lessons Learned
 
 This lab provided practical experience with:
 
-Installing and configuring AD DS
-Promoting a Windows Server to a domain controller
-Creating and organizing OUs
-Creating users and security groups
-Linking Group Policy Objects to OUs
-Understanding GPO scope and inheritance
-Using gpupdate and gpresult for troubleshooting
-Investigating authentication issues in an Active Directory environment
+- Installing and configuring Active Directory Domain Services (AD DS)
+- Promoting a Windows Server to a domain controller
+- Creating and organizing Organizational Units (OUs)
+- Creating users and security groups
+- Linking Group Policy Objects (GPOs) to OUs
+- Understanding GPO scope and inheritance
+- Using `gpupdate` and `gpresult` for troubleshooting
+- Investigating authentication issues in an Active Directory environment
+
+
+
