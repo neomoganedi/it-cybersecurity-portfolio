@@ -58,6 +58,7 @@ The Group Policy was tested using:
 gpupdate /force
 and
 gpresult /r
+
 ```text
 Lessons Learned
 
