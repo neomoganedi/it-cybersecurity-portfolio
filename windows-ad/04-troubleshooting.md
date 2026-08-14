@@ -67,10 +67,10 @@ Future Troubleshooting
 
 ## Future testing should include:
 
-Resetting the Test User password
-Verifying account status and lockout state
-Testing authentication from a domain-joined Windows client
-Reviewing relevant Windows security event logs
-Verifying DNS and domain connectivity
-Reviewing GPO security filtering and inheritance
+Resetting the Test User password.
+Verifying account status and lockout state.
+Testing authentication from a domain-joined Windows client.
+Reviewing relevant Windows security event logs.
+Verifying DNS and domain connectivity.
+Reviewing GPO security filtering and inheritance.
 Testing the GPO against a standard domain user
