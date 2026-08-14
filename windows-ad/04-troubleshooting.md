@@ -63,8 +63,6 @@ Document unexpected behaviour
 Avoid making undocumented changes simply to make a test appear successful
 Distinguish between a confirmed result and an unresolved issue
 
-Future Troubleshooting
-
 ## Future testing should include:
 
 Resetting the Test User password.
