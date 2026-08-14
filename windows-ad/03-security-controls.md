@@ -58,7 +58,7 @@ gpresult /r
 
 The gpresult /r output was also used to investigate why certain Group Policy settings were not being applied as expected
 
-Least Privilege
+## Least Privilege
 
 The lab demonstrated the importance of separating standard user accounts from administrative accounts
 
